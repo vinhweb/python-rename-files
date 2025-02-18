@@ -1,7 +1,7 @@
 # Python Rename Files
 Xin chào, mình là Vinh đây. 
 
-[![Python Rename Files](http://img.youtube.com/vi/aRmBLWA_czA/0.jpg)](http://www.youtube.com/watch?v=aRmBLWA_czA)
+[![Python Rename Files](http://img.youtube.com/vi/Sgyp2rxhHLE/maxresdefault.jpg)](http://www.youtube.com/watch?v=Sgyp2rxhHLE)
 
 Đây là code Python Đổi tên Files hàng loạt một cách miễn phí, nhanh chóng. Có thể xử lý bao nhiêu cũng được, tốc độ nhanh.
 
@@ -53,7 +53,7 @@ Dự án này bao gồm 2 script Python nhằm mục đích đổi tên hàng lo
 
 ---
 
-Đọc thêm tại: https://vinhweb.com/blog/code-python-optimize-toi-uu-hinh-anh-mien-phi
+Đọc thêm tại: https://vinhweb.com/blog/code-python-doi-ten-files-hang-loat
 
 Nhiều source code hay hơn nữa tại website: https://vinhweb.com/.
 
